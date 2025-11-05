@@ -1,4 +1,4 @@
-# 🧑‍💻 JobBot Dashboard
+# 🧑‍💻 JobBot
 
 Ein Desktop-Tool zur **Jobsuche über die Arbeitsagentur-API**.
 Mit **Tkinter GUI**, **SQLite-Datenbank**, CSV-Export und eigenem **Desktop-Icon**.
@@ -57,4 +57,5 @@ Keine Garantie für Vollständigkeit oder Funktionalität.
 Viel Freude!
 
 Keela-prog
+
 
