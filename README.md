@@ -49,10 +49,12 @@ Mit **Tkinter GUI**, **SQLite-Datenbank**, CSV-Export und eigenem **Desktop-Icon
 ---
 📝 Lizenz
 
-Dieses Projekt ist privat und zu Lernzwecken gedacht.
+Dieses Projekt ist zu Lernzwecken gedacht.
 Keine Garantie für Vollständigkeit oder Funktionalität.
 
 ---
 
 Viel Freude!
-JobScouts ♥
+
+Keela-prog
+
